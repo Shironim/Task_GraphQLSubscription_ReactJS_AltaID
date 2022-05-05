@@ -1,0 +1,14 @@
+.table{
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+tr,td {
+  border: 1px solid transparent;
+  padding: 4px 12px;
+}
+thead tr td {
+  font-weight: bold;
+  background-color: #e5b181;
+  color: #fff;
+}

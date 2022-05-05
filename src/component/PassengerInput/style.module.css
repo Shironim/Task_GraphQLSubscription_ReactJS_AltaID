@@ -1,0 +1,22 @@
+.inputan {
+  margin-top: 25px;
+  background-color: #e5b181;
+}
+p{
+  margin: 10px 0;
+}
+.form{
+  margin: 16px 0;
+}
+input, select{
+  width: 300px;
+  padding: 4px 6px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+input{
+  border-bottom:1px solid #000 ;
+}
+input:focus-visible{
+  outline: none;
+}
