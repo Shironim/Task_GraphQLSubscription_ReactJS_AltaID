@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Task_GraphQLSubscription_ReactJS_AltaID/static/css/main.bf765343.css",
-    "main.js": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/main.56f57646.js",
+    "main.js": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/main.bbd8e511.js",
     "static/js/787.9e5d4a4d.chunk.js": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/787.9e5d4a4d.chunk.js",
     "index.html": "/Task_GraphQLSubscription_ReactJS_AltaID/index.html",
     "main.bf765343.css.map": "/Task_GraphQLSubscription_ReactJS_AltaID/static/css/main.bf765343.css.map",
-    "main.56f57646.js.map": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/main.56f57646.js.map",
+    "main.bbd8e511.js.map": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/main.bbd8e511.js.map",
     "787.9e5d4a4d.chunk.js.map": "/Task_GraphQLSubscription_ReactJS_AltaID/static/js/787.9e5d4a4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf765343.css",
-    "static/js/main.56f57646.js"
+    "static/js/main.bbd8e511.js"
   ]
 }
