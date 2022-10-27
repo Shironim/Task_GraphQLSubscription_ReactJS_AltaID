@@ -18,7 +18,7 @@ const Home = () => {
 
     const [getDataById, { loading: loadingID }] = useLazyQuery(GET_PENGUNJUNG_BY_ID, {
         onCompleted: (data) => {
-            navigate("/detail", { state: { data } });
+            navigate("/Task_GraphQLSubscription_ReactJS_AltaID/detail", { state: { data } });
         },
         onError: (error) => {
             console.log('Terjadi error di getDataByID lazyQuery', { error });
@@ -26,7 +26,7 @@ const Home = () => {
     });
     const [getDataUpdate, { loading: loadingIdUpdate }] = useLazyQuery(GET_PENGUNJUNG_BY_ID, {
         onCompleted: (data) => {
-            navigate("/edit", { state: { data } });
+            navigate("/Task_GraphQLSubscription_ReactJS_AltaID/edit", { state: { data } });
 
         },
         onError: (error) => {

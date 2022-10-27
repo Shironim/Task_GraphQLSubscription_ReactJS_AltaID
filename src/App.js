@@ -13,6 +13,9 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/detail" element={<Detail />} />
         <Route path="/edit" element={<Edit />} />
+        <Route path="/Task_GraphQLSubscription_ReactJS_AltaID/" element={<Home />} />
+        <Route path="/Task_GraphQLSubscription_ReactJS_AltaID/detail" element={<Detail />} />
+        <Route path="/Task_GraphQLSubscription_ReactJS_AltaID/edit" element={<Edit />} />
       </Routes>
     </div>
   );

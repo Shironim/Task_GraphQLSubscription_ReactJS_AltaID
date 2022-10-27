@@ -24,7 +24,7 @@ const Edit = () => {
   const [perbaruiPengunjung, { loading }] = useMutation(UPDATE_PENGUNJUNG_BY_ID, {
     onCompleted: (data) => {
       // jika sudah ada, kirim ke halaman awal
-      navigate("/");
+      navigate("/Task_GraphQLSubscription_ReactJS_AltaID/");
     },
     onError: (error) => {
       console.log('Terjadi error di mutasi update', { error });
