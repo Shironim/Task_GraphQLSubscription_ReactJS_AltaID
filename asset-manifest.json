@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/graphqlsubscription/static/css/main.bf765343.css",
+    "main.js": "/graphqlsubscription/static/js/main.c10eb035.js",
+    "static/js/787.9e5d4a4d.chunk.js": "/graphqlsubscription/static/js/787.9e5d4a4d.chunk.js",
+    "index.html": "/graphqlsubscription/index.html",
+    "main.bf765343.css.map": "/graphqlsubscription/static/css/main.bf765343.css.map",
+    "main.c10eb035.js.map": "/graphqlsubscription/static/js/main.c10eb035.js.map",
+    "787.9e5d4a4d.chunk.js.map": "/graphqlsubscription/static/js/787.9e5d4a4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf765343.css",
+    "static/js/main.c10eb035.js"
+  ]
+}
